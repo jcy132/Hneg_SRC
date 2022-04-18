@@ -30,3 +30,6 @@ $ conda install -c conda-forge visdom
 $ conda install -c conda-forge gputil 
 $ conda install -c conda-forge dominate 
 ```
+
+
+### The code will be released soon
