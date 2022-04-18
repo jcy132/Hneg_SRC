@@ -4,7 +4,7 @@
 
 [Chanyong Jung*](https://sites.google.com/view/jcy132), [Gihyun Kwon*](https://sites.google.com/view/gihyunkwon), [Jong Chul Ye](https://bispl.weebly.com/professor.html) (* Equally Contributed)
 
-![github](https://user-images.githubusercontent.com/52989204/163760524-55805b04-2324-421c-8ede-bfbd328cd930.png)
+<img_src="https://user-images.githubusercontent.com/52989204/163760524-55805b04-2324-421c-8ede-bfbd328cd930.png" width="200"/>
 
 
 ### Environment
