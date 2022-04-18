@@ -9,6 +9,16 @@
 <img src="https://user-images.githubusercontent.com/52989204/163760524-55805b04-2324-421c-8ede-bfbd328cd930.png" width="800"/>
 </center>
 
+### Cite
+```
+@article{jung2022exploring,
+  title={Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks},
+  author={Jung, Chanyong and Kwon, Gihyun and Ye, Jong Chul},
+  journal={arXiv preprint arXiv:2203.01532},
+  year={2022}
+}
+```
+
 ### Environment
 ```
 $ conda create -n SRC python=3.6
