@@ -11,6 +11,9 @@ Link: https://arxiv.org/abs/2203.01532
 <img src="https://user-images.githubusercontent.com/52989204/163761652-cc999aa5-db8f-4e34-be4e-8fa4fa706c2e.png" width="900"/>
 </p> 
 
+![Result_sincut](https://user-images.githubusercontent.com/52989204/165891864-1f7bbb8f-937e-496e-86e1-7ba9ebc48001.jpg)
+
+
 ### Cite
 ```
 @article{jung2022exploring,
