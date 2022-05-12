@@ -35,4 +35,3 @@ $ conda install -c conda-forge dominate
 ```
 
 
-The code will be released soon
