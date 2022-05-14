@@ -12,7 +12,7 @@ We provide the pretrained model for 3 datasets: \
 [Monet](https://drive.google.com/file/d/1fzkME3D-g8tztdr8rotucbtdxSe7YrIy/view?usp=sharing)
 
 To get results of pretrained model, 
-1. Locate the pretrained model to the ```./checkpoint``` directory
+1. Locate the pretrained model to the ```./checkpoints``` directory
 2. Refer the ```./script/test.sh``` file, or the following command
 ```
 ## horse2zebra best
