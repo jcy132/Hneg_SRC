@@ -61,8 +61,8 @@ python train.py --name exp_monet \
 #### Evaluation
 Please refer the following commend:
 ```
-python test.py --dataroot [path to dataset] --name [experiment-name] --CUT_mode CUT --phase test --epoch [epoch for test]
-python -m pytorch_fid [path to output] [path to input]
+python test.py --dataroot [path-to-dataset] --name [experiment-name] --CUT_mode CUT --phase test --epoch [epoch-for-test]
+python -m pytorch_fid [path-to-output] [path-to-input]
 ```
 
 ### Acknowledgement
