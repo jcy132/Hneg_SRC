@@ -15,14 +15,18 @@ To get results of pretrained model,
 1. Locate the pretrained model to the ```./checkpoints``` directory
 2. Refer the ```./script/test.sh``` file, or the following command
 ```
-## horse2zebra best
+## horse2zebra 
 python test.py --dataroot ./datasets/horse2zebra --name h2z-best --CUT_mode CUT --phase test --epoch best
 python -m pytorch_fid ./results/h2z-best/test_best/images/fake_B ./datasets/horse2zebra/testB
 
-## cityscapes best
+## cityscapes
 python test.py --dataroot ./datasets/cityscapes_cut --name city-best --CUT_mode CUT --phase test --epoch best --direction BtoA
 python -m pytorch_fid ./results/city-best/test_best/images/fake_B ./datasets/cityscapes_cut/testA
 
-## Style best
+## Monet 
 python test.py --name monet-best --model sincut --dataroot ./datasets/single_image_monet_etretat
 ```
+
+
+### Training & Evaluation
+#### Training 
