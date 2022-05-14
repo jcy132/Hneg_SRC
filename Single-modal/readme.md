@@ -11,7 +11,7 @@ We provide the pretrained model for 3 datasets: \
 [Cityscapes](https://drive.google.com/file/d/1oPIyWwLEtBIKaO4vZZVijMHJD7xICBsh/view?usp=sharing) /
 [Monet](https://drive.google.com/file/d/1fzkME3D-g8tztdr8rotucbtdxSe7YrIy/view?usp=sharing)
 
-We also provied drn-d-22 model for cityscapes:
+We also provied drn-d-22 model for cityscapes: \
 [drn-d-22](https://drive.google.com/file/d/1nNV_tQ4PhEyF6TohgYOaZ51qUYvXoMMB/view?usp=sharing)
 
 To get results of pretrained model, 
