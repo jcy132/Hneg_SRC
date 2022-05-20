@@ -84,6 +84,16 @@ e.g.) For horse2zebra cycleGAN,
 
 ```bash scripts/h2z/evolution_search.sh```
 
+### (Optional) Fine-tuning the compressed model
+
+For better performance of compressed model, we can fine-tune the model with additional training
+
+To reproduce the results on pix2pix-map2sat, please run the fine-tuning step.
+
+```bash scripts/map2sat/finetune.sh $CONFIG```
+
+Again, in ```$CONFIG```, please write the channel configuration e.g. ```16_16_32_16_32_64_16_16```
+
 ### Compressed model export
 
 After evolution search step, we can obtain the optimized channel configuration for compressed model.
@@ -94,15 +104,6 @@ Please run the following bash file to obtain compressed model.
 
 in ```$CONFIG```, please write the channel configuration e.g. ```16_16_32_16_32_64_16_16```
 
-### (Optional) Fine-tuning the compressed model
-
-For better performance of compressed model, we can fine-tune the model with additional training
-
-To reproduce the results on pix2pix-map2sat, please run the fine-tuning step.
-
-```bash scripts/map2sat/finetune.sh $CONFIG```
-
-Again, in ```$CONFIG```, please write the channel configuration e.g. ```16_16_32_16_32_64_16_16```
 
 ### Test
 
