@@ -46,7 +46,7 @@ Then you can test our compressed models on cityscapes after you have downloaded 
 
 ### Download Teacher Model
 
-We provide teacher pre-trained teacher models in the following links.
+We provide pre-trained teacher models in the following links.
 
 [CycleGAN-horse2zebra](https://drive.google.com/file/d/1Y7QAySP1ZC4WqZbszl9FKs0nVyFaqyhZ/view?usp=sharing)
 
