@@ -59,11 +59,17 @@ python train.py --name exp_monet \
 ```
 
 #### Evaluation
-Please refer the following commend:
+Please refer the following command:
 ```
 python test.py --dataroot [path-to-dataset] --name [experiment-name] --CUT_mode CUT --phase test --epoch [epoch-for-test]
 python -m pytorch_fid [path-to-output] [path-to-input]
 ```
+
+For the segmentation scores, please refer the following command:
+'''
+python python get_mAP.py test -d [path-to-result-images] -c 19 --arch drn_d_22 --phase val --batch-size 1 \
+--pretrained [path-to-pretrained-drn]
+'''
 
 ### Acknowledgement
 Our source code is based on [CUT](https://github.com/taesungp/contrastive-unpaired-translation). \
