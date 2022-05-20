@@ -2,6 +2,10 @@
 
 Our implementation is based on official repository of [Fast GAN Compression](https://github.com/mit-han-lab/gan-compression). 
 
+### Additional environment setting
+```pip install torchprofile```
+```pip install tensorboard```
+
 ### Data prepare
 
 You can download the training dataset & data stats for metric calculation.
