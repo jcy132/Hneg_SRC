@@ -109,13 +109,15 @@ in ```$CONFIG```, please write the channel configuration e.g. ```16_16_32_16_32_
 
 For calculating metrics on compressed model,
 
-please run the following code
+please run the following code e.g.)
 
 ```bash scripts/h2z/test.sh $CONFIG```
 
 in ```$CONFIG```, please write the channel configuration
 
-We provide the pre-trained compressed models in the follwing link
+We provide the pre-trained compressed models in the follwing link.
+
+we also provide pre-trained network configuration in the bash file.
 
 [Map2sat](https://drive.google.com/file/d/1GQMkUFGHdPorOdZCIkd_BKGLx6qJDOqo/view?usp=sharing)
 
