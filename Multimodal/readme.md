@@ -9,6 +9,7 @@ With basic settings,
 ```
 conda install -c conda-forge munch
 pip install opencv-python
+conda install -c anaconda scikit-image
 ```
 
 ### Dataset
