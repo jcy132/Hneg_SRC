@@ -4,6 +4,12 @@ This repository provides Pytorch Implementation of Multidomain-Multimodal Image 
 
 Our source code is based on official implementation of [StarGANv2](https://github.com/clovaai/stargan-v2)
 
+## Environment
+With basic settings,
+```
+conda install -c conda-forge munch
+```
+
 ### Dataset
 
 For dataset download, please refer to the following link 
