@@ -8,6 +8,7 @@ Our source code is based on official implementation of [StarGANv2](https://githu
 With basic settings,
 ```
 conda install -c conda-forge munch
+pip install opencv-python
 ```
 
 ### Dataset
