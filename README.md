@@ -4,7 +4,6 @@
 Link: https://arxiv.org/abs/2203.01532
 
 Supplementary Material:
-
 https://openaccess.thecvf.com/content/CVPR2022/supplemental/Jung_Exploring_Patch-Wise_Semantic_CVPR_2022_supplemental.pdf
 
 
