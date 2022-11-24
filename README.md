@@ -2,7 +2,7 @@
 [Chanyong Jung*](https://sites.google.com/view/jcy132), [Gihyun Kwon*](https://sites.google.com/view/gihyunkwon), [Jong Chul Ye](https://bispl.weebly.com/professor.html) (* co-first author)
 
 Link: https://arxiv.org/abs/2203.01532
-
+Supplementary Material: https://openaccess.thecvf.com/content/CVPR2022/supplemental/Jung_Exploring_Patch-Wise_Semantic_CVPR_2022_supplemental.pdf
 
 
 
