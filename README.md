@@ -17,10 +17,11 @@ https://openaccess.thecvf.com/content/CVPR2022/supplemental/Jung_Exploring_Patch
 
 ### Cite
 ```
-@article{jung2022exploring,
-  title={Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks},
+@inproceedings{jung2022exploring,
+  title={Exploring patch-wise semantic relation for contrastive learning in image-to-image translation tasks},
   author={Jung, Chanyong and Kwon, Gihyun and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2203.01532},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={18260--18269},
   year={2022}
 }
 ```
